@@ -60,6 +60,50 @@ body {
 
 
 
+<html>
+
+
+<head>
+    <link rel="stylesheet" href="styles.css" />
+
+    <title>José</title>
+</head>
+
+<body>
+
+
+
+    <header>ALURAFLIX</header>
+
+
+
+    <div>
+        <h1>Tião Carreiro e Pardinho - Minha Vida</h1>
+        <p>#musica</p>
+    </div>
+
+    <div>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Nm2SvVo4gJU?si=y7yJtNtmCV8BcVsN"
+            title="YouTube video player" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
